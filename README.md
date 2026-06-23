@@ -1,4 +1,4 @@
-# 🎓 Estudante de ADS e Gestão de TI, focada em Engenharia de Software e desenvolvimento Back-End com Java.
+# 🎓 Gestora de TI e estudante em ADS, focada em Engenharia de Software e desenvolvimento Back-End com Java.
 
 Atualmente estudando Java 22, Spring Boot, APIs RESTful, SQL, JDBC, Hibernate/JPA, JavaFX, Estruturas de Dados, Programação Orientada a Objetos, Programação Funcional, Testes de Software e integração com Banco de Dados.
 
